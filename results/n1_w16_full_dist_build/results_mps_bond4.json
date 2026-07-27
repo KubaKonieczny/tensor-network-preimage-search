@@ -1,0 +1,43 @@
+{
+  "config": {
+    "n": [
+      1
+    ],
+    "w": [
+      16
+    ],
+    "mode": "single",
+    "max_bond_build": 4,
+    "max_bond_mps": null,
+    "target_pct": 0.05,
+    "max_exact_qubits": 28,
+    "output": "results_19998135_bond4.json"
+  },
+  "results": [
+    {
+      "n": 1,
+      "w_size": 16,
+      "mode": "single",
+      "search_space": 65536,
+      "max_bond_build": 4,
+      "max_bond_mps": null,
+      "max_bond_after_build": 4,
+      "max_bond_after_compress": 4,
+      "build_time_sec": 17.428385972976685,
+      "compress_time_sec": 0.0,
+      "query_time_sec": 1.9987342357635498,
+      "total_time_sec": 19.427120208740234,
+      "hash_probability": 8.325286494163539e-40,
+      "distribution_size": 0,
+      "found": false,
+      "valid_preimages_count": 0,
+      "full_distribution": [],
+      "valid_preimages": [],
+      "num_queries": 1,
+      "memory_start_mb": 138.6953125,
+      "memory_after_build_mb": 150.37890625,
+      "memory_after_query_mb": 153.87109375,
+      "memory_delta_mb": 15.17578125
+    }
+  ]
+}

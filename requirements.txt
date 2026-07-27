@@ -1,0 +1,6 @@
+psutil>=7.0.0
+numpy>=2.2.6
+quimb>=1.11.1
+qiskit>=2.1.0
+qiskit-aer>=0.17.2
+qiskit-ibm-runtime>=0.43.1
